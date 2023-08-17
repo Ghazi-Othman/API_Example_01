@@ -3,6 +3,7 @@
 Hello Coders . <br>
 This is my very simple flutter app that dealing with api . <br>
 I used [this website](https://jsonplaceholder.typicode.com ) which give me a fake api . <br>
+I used http library . <br>
 The API returns json file which I converted to model and then show the info I want in the UI .<br>
 I did not use state mangement , just setState . <br>
 Very simple UI because the goal of this app is to learn how to deal with API.<br>
